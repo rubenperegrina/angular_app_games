@@ -1,0 +1,10 @@
+﻿<div class="p-4">
+    <div class="container">
+        <h1>Wellcome back {{ user.userName }}!</h1>
+        <p *ngIf="!isDisabled">You have new rewards to collect!</p>
+        <p *ngIf="isDisabled">You have no rewards to collect, come back later</p>
+        <div class="example-button-container">
+            <button mat-raised-button color="primary" (click)="addRewards()" [disabled]="isDisabled">{{ reward }}€</button>
+          </div>
+    </div>
+</div>

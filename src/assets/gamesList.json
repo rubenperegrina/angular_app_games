@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Bingo friends",
+        "difficulty": 5,
+        "img":"../../assets/img/bingoFriends.png",
+        "description": "If you are a bingo fan and you love pets, you will fall in love with Bingo Friends, your free Bingo Game. Explore the cutest world and help your faithful partner to reunite all of his friends back together for play bingo free online. They need you! Bingo! Do you need more reasons to play? Come on!"
+    },
+    {
+        "id": 2,
+        "name": "El tesoro de Java",
+        "difficulty": 4,
+        "img":"../../assets/img/elTesoroDeJava.png",
+        "description": "Tesoro de Java is waiting for you deep inside the ruins. Prepare to live an authentic adventure in the double rollers game, get exciting advances and their mythical minigames. Are you ready to discover the mysteries that hide in the ruins? Come on, play with us and win the colossal fortune of Tesoro de Java."
+    },
+    {
+        "id": 3,
+        "name": "FBI Academy",
+        "difficulty": 3,
+        "img":"../../assets/img/fbiAcademy.png",
+        "description": "Notice to all units, a murder has been committed! Unfold your weapon and discover the criminal using all your weapons in this bar slot with double top screen. You are at the point of becoming a special agent, with the new FBI Academy app. Will you be able to pass all the tests?"
+    },
+    {
+        "id": 4,
+        "name": "La granja",
+        "difficulty": 2,
+        "img":"../../assets/img/laGranja.png",
+        "description": "Take your wheelbarrow and start working on this epic Bar Slot! Became an amazing farmer collecting advances, bonus and nudges. Harvest coins on the six minigames and plant prizes on the upper screen. What are you waiting for? Let’s harvest!"
+    },
+    {
+        "id": 5,
+        "name": "La perla del Caribe",
+        "difficulty": 1,
+        "img":"../../assets/img/laPerlaDelCaribe.png",
+        "description": "Welcome to Paradise! Travel and remember the Caribbean landscape with the new slot The Pearl of the Caribbean Deluxe. Dive into its six minigames and discover the amazing reels. What are you waiting to live an authentic Caribbean experience? Let’s play!"
+    },
+    {
+        "id": 6,
+        "name": "Mundo Slots",
+        "difficulty": 5,
+        "img":"../../assets/img/mundoSlots.png",
+        "description": "Turn into a real astronaut travelling from world to world and get amazing prizes with your favourite Spanish bar slots. What are you waiting for? Let the interstellar journey begin! your favourite bar slot machines are waiting for you. Would you be able to find them all? The take-off will start in 3, 2, 1... ¡Download!"
+    },
+    {
+        "id": 7,
+        "name": "Slot",
+        "difficulty": 4,
+        "img":"../../assets/img/slot.png",
+        "description": "Come play with us and enjoy our most fun free slots games. Our games are surprising and beautifully crafted. Discover more than 40 incredible slot machines, become an expert playing new levels, collect FREE COINS from bonuses, unlock exciting games and win amazing awards. Play together with your friends (or make new ones!). Share your entertainment experience, try your luck and skill to climb in the rankings, and level up while discovering more and more features."
+    },
+    {
+        "id": 8,
+        "name": "Troya",
+        "difficulty": 3,
+        "img":"../../assets/img/troya.png",
+        "description": "The war has begun in Troya. Choose your side and let the rollers spin. Prepare to experience the greatest battle you've ever fought for love by entering this double-roller game, get exciting advancements and their epic mini-games. Don't forget to bring your best weapons to win the battle! Zeus will provide you with your daily gold bag and every 4 hours you will be sent a lightning bolt with a bag of coins. Let's play!"
+    },
+    {
+        "id": 9,
+        "name": "Vikingos",
+        "difficulty": 2,
+        "img":"../../assets/img/vikingos.png",
+        "description": "Your favorite slot machine! The Viking drakkar has just landed ... The looting season has arrived! Join the horde of Vikings and delve into the minigames of your slot machine, face the advances and retentions, and gather the strength to throw the ball on the board to get the best prize. Become a legendary Viking! Play this free slot and carry out the biggest pillage in history!"
+    }
+]

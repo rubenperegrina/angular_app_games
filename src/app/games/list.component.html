@@ -1,0 +1,26 @@
+﻿<h1>Games</h1>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+      <p class="lead">Type a game to search...</p>
+      <div class="input-group">
+          <input type="text" class="form-control" placeholder="Game" aria-label="Game"
+              aria-describedby="button-addon2" name="gameToFind"
+              [(ngModel)]="gameToFind" 
+              (keyup)="search(gameToFind)"
+              (keypress)="search(gameToFind)">
+          <div class="input-group-append">
+              <button class="btn btn-outline-secondary" type="button" (click)="search(gameToFind)">
+                  <mat-icon aria-hidden="false">search</mat-icon>
+              </button>
+          </div>
+      </div>
+  </div>
+</div>
+
+<div class="form-row">
+  <mat-card class="example-card" *ngFor="let game of games">
+    <mat-card-header></mat-card-header>
+    <img mat-card-image routerLink="detail/{{ game.id }}" src="{{ game.img }}" alt="{{ game.name }}">
+  </mat-card>
+</div>
